@@ -1,6 +1,7 @@
 # Welcome to Isarok's GitHub 
 
-![Banner de Isarok](Banner.png)
+
+![Isarok (2)](https://github.com/user-attachments/assets/4ff4d00e-59bb-4226-957d-91d966affc0a)
 
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](isaarok)	
