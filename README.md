@@ -1,4 +1,4 @@
-# Welcome to Isarok's GitHub 
+# Welcome to Isarok's GitHub 👋
 
 
 ![Isarok (2)](https://github.com/user-attachments/assets/4ff4d00e-59bb-4226-957d-91d966affc0a)
@@ -12,7 +12,7 @@
 
 <p>This repository was created to share, contribute to, and learn from Full-Stack web development projects that showcase our teamwork and make us proud. </p>
 
-### Skills
+### Skills ⚡
 <p align="center">
  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
