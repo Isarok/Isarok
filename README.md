@@ -7,9 +7,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](isaac.lucerito@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/isaac-garcía-romero-b73202a6)
 
-<h3 align="center">I am a passionate about web development and the IT world.</h3>
+<h3 align="center">I am Isaac, a beginner in the IT world, where every day is an opportunity to learn and grow.</h3>
 
-<p>This repository was created to share, contribute, learn a lot from FullStacks web development projects that make us proud of our teamwork. </p>
+<p>This repository was created to share, contribute to, and learn from Full-Stack web development projects that showcase our teamwork and make us proud. </p>
 
 ### Skills
 <p align="center">
@@ -27,6 +27,8 @@
 ![Isarok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isarok&theme=catppuccin_mocha&show_icons=true)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isarok&show_icons=true&locale=en&layout=compact&theme=dark" alt="isarok" /></p>
+
+<h4 align = "center"> Always willing to collaborate on interesting projects. Feel free to reach out if you'd like to work together. </h4>
 
 
 
